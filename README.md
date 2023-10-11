@@ -33,7 +33,7 @@ Use cv2.waitKey(0) to wait for a key press indefinitely.
 DEVELOPED BY:GURUMOORTHI R
 REG NO:212222230042
 ```
-``` 
+```python
 # Import the necessary packages
 
 
